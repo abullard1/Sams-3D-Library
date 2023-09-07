@@ -120,14 +120,14 @@ The website currently displays six 3D models, all of which can be downloaded/pur
   <tr>
     <td>
       <kbd> 
-        <img src="Showcase-Files/Images/Sams-3D-Library-Upcoming-Model-1.png" width="800" alt="Military Fast Attack Spaceship" title="Military Fast Attack Spaceship"/> 
+        <img src="Showcase-Files/Images/Sams-3D-Library-Upcoming-Model-2.png" width="800" alt="Military Fast Attack Spaceship" title="Military Fast Attack Spaceship"/> 
       </kbd>
     </td>
   </tr>
   <tr>
     <td>
       <kbd> 
-        <img src="Showcase-Files/Images/Sams-3D-Library-Upcoming-Model-1.png" width="800" alt="Worn/Dirty Laboratory Table with sink and a variety of different utensils" title="Worn/Dirty Laboratory Table with sink and a variety of different utensils"/> 
+        <img src="Showcase-Files/Images/Sams-3D-Library-Upcoming-Model-3.png" width="800" alt="Worn/Dirty Laboratory Table with sink and a variety of different utensils" title="Worn/Dirty Laboratory Table with sink and a variety of different utensils"/> 
       </kbd>
     </td>
   </tr>
