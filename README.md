@@ -4,7 +4,7 @@ A personal website, made using pure HTML, CSS and Javascript and Unity WebGL to 
 # Website
 <div align="center">
   <a href="https://sams3dlibrary.com/">
-    <img src="Showcase%20Files/Images/Sam%27s%203D%20Library%20Intro%20Logo.png" alt="Sam's 3D Library">
+    <img src="Showcase%20Files/Images/Sam%27s%203D%20Library%20Intro%20Logo.png" alt="Sam's 3D Library" title="Click to enter Sam's 3D Library!">
   </a>
 </div>
 
@@ -29,13 +29,13 @@ The website currently has 6 models on it, which can all be downloaded/purchased 
 
 <table>
   <tr>
-    <td><kbd> <img src="Showcase%20Files/Images/Sams-3D-Library-2D%20Showcase%201.png" width="1000" /> </kbd></td>
+    <td><kbd> <img src="Showcase%20Files/Images/Sams-3D-Library-2D%20Showcase%201.png" width="1000" alt="2D/3D Selection Page" title="2D/3D Selection Page"/> </kbd></td>
   </tr>
   <tr>
-    <td><kbd> <img src="Showcase%20Files/Images/Sams-3D-Library-2D%20Showcase%202.png" width="1000" /> </kbd></td>
+    <td><kbd> <img src="Showcase%20Files/Images/Sams-3D-Library-2D%20Showcase%202.png" width="1000" alt="Main Page" title="Main Page"/> </kbd></td>
   </tr>
   <tr>
-    <td><kbd> <img src="Showcase%20Files/Images/Sams-3D-Library-2D%20Showcase%203.png" width="1000" /> </kbd></td>
+    <td><kbd> <img src="Showcase%20Files/Images/Sams-3D-Library-2D%20Showcase%203.png" width="1000" alt="Model Inspection Overlay" title="Model Inspection Overlay"/> </kbd></td>
   </tr>
 </table>
 
@@ -54,3 +54,8 @@ The website currently has 6 models on it, which can all be downloaded/purchased 
 </table>
 
 ## Upcoming Models
+<table>
+  <tr>
+    <td><kbd> <img src="Showcase Files/Images/Sams-3D-Library-Upcoming%20Model%201.png" width="800" alt="Name: Großer Kopf, Artist: Trude Esser, Location: Düsseldorf, Germany" title="Name: Großer Kopf, Artist: Trude Esser, Location: Düsseldorf, Germany"/> </kbd></td>
+  </tr>
+</table>
