@@ -54,3 +54,14 @@ The website currently has 6 models on it, which can all be downloaded/purchased 
 </table>
 
 ## Upcoming Models
+<table>
+  <tr>
+    <td><kbd> <img src="Showcase%20Files/Images/Sams-3D-Library-Upcoming%20Model%201" width="1000" /> </kbd></td>
+  </tr>
+  <tr>
+    <td><kbd> <img src="Sams-3D-Library-3D Showcase 2.png" width="1000" /> </kbd></td>
+  </tr>
+  <tr>
+    <td><kbd> <img src="Sams-3D-Library-3D Showcase 3.png" width="1000" /> </kbd></td>
+  </tr>
+</table>
