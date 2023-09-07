@@ -56,6 +56,6 @@ The website currently has 6 models on it, which can all be downloaded/purchased 
 ## Upcoming Models
 <table>
   <tr>
-    <td><kbd> <img src="Showcase Files/Images/Sams-3D-Library-Upcoming%20Model%201.png" width="1000" alt="Name: Großer Kopf, Artist: Trude Esser, Location: Düsseldorf, Germany" title="Name: Großer Kopf, Artist: Trude Esser, Location: Düsseldorf, Germany"/> </kbd></td>
+    <td><kbd> <img src="Showcase Files/Images/Sams-3D-Library-Upcoming%20Model%201.png" width="800" alt="Name: Großer Kopf, Artist: Trude Esser, Location: Düsseldorf, Germany" title="Name: Großer Kopf, Artist: Trude Esser, Location: Düsseldorf, Germany"/> </kbd></td>
   </tr>
 </table>
