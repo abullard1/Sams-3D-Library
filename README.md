@@ -18,11 +18,11 @@ Initially, I began with just a regular 2D website, which started out as part of 
 <br>
 <br>
 #### Unity WebGL Version
-During the making of the 2D website, the idea of also creating an interactive WebGL version of the website in Unity randomly popped into my head. I have always been interested in game development, which is why I picked up 3D modeling in the first place some time ago. I felt like adding a Unity WebGL version of the 3D library was simply the natural next step. The 3D Version also has limited mobile support. It will automatically detect if you are on a mobile device and activate a mobile UI letting you play using an onscreen joystick and buttons.
+During the making of the 2D website, the idea of also creating an interactive WebGL version of the website in Unity randomly popped into my head. I have always been interested in game development, which is why I picked up 3D modeling in the first place some time ago. I felt like adding a Unity WebGL version of the 3D library was simply the natural next step. The 3D Version also has limited mobile support. It will automatically detect if you are on a mobile device and activate a mobile UI letting you play using an onscreen joystick and buttons. **The 3D Version Unity Project project can be downloaded [here](https://drive.google.com/file/d/1dwVfUvqlepKW6kQrtcf_SswvabM8mlvg/view?usp=sharing).**
 <br>
 <br>
 #### Current State
-The website currently displays six 3D models, all of which can be downloaded/purchased on CGTrader and TurboSquid (or ripped from the files of this repository if you're smart). More 3D models will be uploaded further down the line, some of which can be seen under [Upcoming Models](#Upcoming-Models). I highly appreciate any visits to the [Website](https://sams3dlibrary.com/).
+Currently, six 3D models are displayed on the website, all of which can be downloaded/purchased on CGTrader and TurboSquid (or ripped from the files of this repository if you're smart). More 3D models will be uploaded further down the line, some of which can be seen under [Upcoming Models](#Upcoming-Models). I highly appreciate any visits to the [Website](https://sams3dlibrary.com/).
 <br>
 <br>
 ## **Note: Unity WebGL is not officialy supported on mobile devices! Some devices will work fine, others won't.** ##
