@@ -16,13 +16,13 @@ I started this little side project in summer 2022 after having finished two proj
 
 <table>
   <tr>
-    <td><kbd> <img src="Sams-3D-Library-2D Showcase 1.png" width="1000" /> </kbd></td>
+    <td><kbd> <img src="Showcase%20Files/Images/Sams-3D-Library-2D%20Showcase%201.png" width="1000" /> </kbd></td>
   </tr>
   <tr>
-    <td><kbd> <img src="Sams-3D-Library-2D Showcase 2.png" width="1000" /> </kbd></td>
+    <td><kbd> <img src="Showcase%20Files/Images/Sams-3D-Library-2D%20Showcase%202.png" width="1000" /> </kbd></td>
   </tr>
   <tr>
-    <td><kbd> <img src="Sams-3D-Library-2D Showcase 3.png" width="1000" /> </kbd></td>
+    <td><kbd> <img src="Showcase%20Files/Images/Sams-3D-Library-2D%20Showcase%203.png" width="1000" /> </kbd></td>
   </tr>
 </table>
 
