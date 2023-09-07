@@ -4,7 +4,7 @@ A personal website, made using pure HTML, CSS and Javascript and Unity WebGL to 
 # Website
 <div align="center">
   <a href="https://sams3dlibrary.com/">
-    <img src="Showcase%20Files/Images/Sam%27s%203D%20Library%20Intro%20Logo.png" alt="Sam's 3D Library" title="Click to enter Sam's 3D Library!">
+    <img src="Showcase-Files/Images/Sams-3D-Library-Intro-Logo.png" alt="Sam's 3D Library" title="Click to enter Sam's 3D Library!">
   </a>
 </div>
 
@@ -37,21 +37,21 @@ The website currently displays six 3D models, all of which can be downloaded/pur
   <tr>
     <td>
       <kbd> 
-        <img src="Showcase%20Files/Images/Sams-3D-Library-2D%20Showcase%201.png" width="1000" alt="2D/3D Selection Page" title="2D/3D Selection Page"/> 
+        <img src="Showcase-Files/Images/Sams-3D-Library-2D-Showcase-1.png" width="1000" alt="2D/3D Selection Page" title="2D/3D Selection Page"/> 
       </kbd>
     </td>
   </tr>
   <tr>
     <td>
       <kbd> 
-      <img src="Showcase%20Files/Images/Sams-3D-Library-2D%20Showcase%202.png" width="1000" alt="Main Page" title="Main Page"/> 
+      <img src="Showcase-Files/Images/Sams-3D-Library-2D-Showcase-2.png" width="1000" alt="Main Page" title="Main Page"/> 
       </kbd>
     </td>
   </tr>
   <tr>
     <td>
       <kbd>
-      <img src="Showcase%20Files/Images/Sams-3D-Library-2D%20Showcase%203.png" width="1000" alt="Model Inspection Overlay" title="Model Inspection Overlay"/> 
+      <img src="Showcase-Files/Images/Sams-3D-Library-2D-Showcase-3.png" width="1000" alt="Model Inspection Overlay" title="Model Inspection Overlay"/> 
       </kbd>
     </td>
   </tr>
@@ -65,42 +65,42 @@ The website currently displays six 3D models, all of which can be downloaded/pur
   <tr>
     <td>
       <kbd> 
-      <img src="Showcase%20Files/Images/Sams-3D-Library-3D%20Showcase%201.png" width="1000" alt="Introduction Screen" title="Introduction Screen"/> 
+      <img src="Showcase-Files/Images/Sams-3D-Library-3D-Showcase-1.png" width="1000" alt="Introduction Screen" title="Introduction Screen"/> 
       </kbd>
     </td>
   </tr>
   <tr>
     <td>
       <kbd> 
-      <img src="Showcase%20Files/Images/Sams-3D-Library-3D%20Showcase%202.png" width="1000" alt="3D Model Hallway" title="3D Model Hallway"/>
+      <img src="Showcase-Files/Images/Sams-3D-Library-3D-Showcase-2.png" width="1000" alt="3D Model Hallway" title="3D Model Hallway"/>
       </kbd>
     </td>
   </tr>
   <tr>
     <td>
       <kbd>
-      <img src="Showcase%20Files/Images/Sams-3D-Library-3D%20Showcase%203.png" width="1000" alt="Looking at 3D Model" title="Looking at 3D Model"/>
+      <img src="Showcase-Files/Images/Sams-3D-Library-3D-Showcase-3.png" width="1000" alt="Looking at 3D Model" title="Looking at 3D Model"/>
       </kbd>
     </td>
   </tr>
   <tr>
     <td>
       <kbd>
-      <img src="Showcase%20Files/Images/Sams-3D-Library-3D%20Showcase%204.png" width="1000" alt="Examining 3D Model" title="Examining 3D Model"/>
+      <img src="Showcase-Files/Images/Sams-3D-Library-3D-Showcase-4.png" width="1000" alt="Examining 3D Model" title="Examining 3D Model"/>
       </kbd>
     </td>
   </tr>
   <tr>
     <td>
       <kbd>
-      <img src="Showcase%20Files/Images/Sams-3D-Library-3D%20Showcase%205.png" width="1000" alt="Pause Menu" title="Pause Menu"/>
+      <img src="Showcase-Files/Images/Sams-3D-Library-3D-Showcase-5.png" width="1000" alt="Pause Menu" title="Pause Menu"/>
       </kbd>
     </td>
   </tr>
   <tr>
     <td>
       <kbd>
-      <img src="Showcase%20Files/Images/Sams-3D-Library-3D%20Showcase%206.png" width="1000" alt="Mobile Platform UI" title="Mobile Platform UI"/>
+      <img src="Showcase-Files/Images/Sams-3D-Library-3D-Showcase-6.png" width="1000" alt="Mobile Platform UI" title="Mobile Platform UI"/>
       </kbd>
     </td>
   </tr>
@@ -113,21 +113,21 @@ The website currently displays six 3D models, all of which can be downloaded/pur
   <tr>
     <td>
       <kbd> 
-        <img src="Showcase Files/Images/Sams-3D-Library-Upcoming%20Model%201.png" width="800" alt="Name: Großer Kopf, Artist: Trude Esser, Location: Düsseldorf, Germany" title="Name: Großer Kopf, Artist: Trude Esser, Location: Düsseldorf, Germany"/> 
+        <img src="Showcase-Files/Images/Sams-3D-Library-Upcoming-Model-1.png" width="800" alt="Name: Großer Kopf, Artist: Trude Esser, Location: Düsseldorf, Germany" title="Name: Großer Kopf, Artist: Trude Esser, Location: Düsseldorf, Germany"/> 
       </kbd>
     </td>
   </tr>
   <tr>
     <td>
       <kbd> 
-        <img src="Showcase Files/Images/Sams-3D-Library-Upcoming%20Model%202.png" width="800" alt="Military Fast Attack Spaceship" title="Military Fast Attack Spaceship"/> 
+        <img src="Showcase-Files/Images/Sams-3D-Library-Upcoming-Model-1.png" width="800" alt="Military Fast Attack Spaceship" title="Military Fast Attack Spaceship"/> 
       </kbd>
     </td>
   </tr>
   <tr>
     <td>
       <kbd> 
-        <img src="Showcase Files/Images/Sams-3D-Library-Upcoming%20Model%203.png" width="800" alt="Worn/Dirty Laboratory Table with sink and a variety of different utensils" title="Worn/Dirty Laboratory Table with sink and a variety of different utensils"/> 
+        <img src="Showcase-Files/Images/Sams-3D-Library-Upcoming-Model-1.png" width="800" alt="Worn/Dirty Laboratory Table with sink and a variety of different utensils" title="Worn/Dirty Laboratory Table with sink and a variety of different utensils"/> 
       </kbd>
     </td>
   </tr>
