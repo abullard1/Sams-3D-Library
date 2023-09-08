@@ -13,10 +13,6 @@ A personal website, made using pure HTML, CSS and Javascript and Unity WebGL to 
 ## Table of Contents
 - [Website](#Website)
 - [Information](#Information)
-    - [Context](#Context)
-    - [Why HTML, CSS & JavaScript](#Why-HTML,-CSS-&-JavaScript)
-    - [Unity WebGL Version](#Unity-WebGL-Version)
-    - [Current State](#Current-State)
 - [Showcase](#Showcase)
     - [2D Version](#2D-Version)
     - [3D Version](#3D-Version)
