@@ -14,9 +14,10 @@ A personal website, made using pure HTML, CSS and Javascript and Unity WebGL to 
 1. [Website](#Website)
 2. [Information](#Information)
 3. [Showcase](#Showcase)
-4. [Known Issues](#Known-Issues)
-5. [Quick Start](#Quick-Start)
-6. [Contribution](#Contribution)
+  - [2D Version](#2D-Version)
+  - [3D Version](#3D-Version)
+  - [Upcoming Models](#Upcoming-Models)
+5. [Known Issues](#Known-Issues)
 
 # Website
 <div align="center">
