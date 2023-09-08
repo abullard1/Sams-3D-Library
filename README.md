@@ -14,9 +14,6 @@ A personal website, made using pure HTML, CSS and Javascript and Unity WebGL to 
 1. [Website](#Website)
 2. [Information](#Information)
 3. [Showcase](#Showcase)
-  - [2D Version](#2D-Version)
-  - [3D Version](#3D-Version)
-  - [Upcoming Models](#Upcoming-Models)
 5. [Known Issues](#Known-Issues)
 
 # Website
