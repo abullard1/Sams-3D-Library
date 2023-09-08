@@ -82,7 +82,7 @@ Currently, six 3D models are displayed on the website, all of which can be downl
 
 | ![Model Inspection Overlay](Showcase-Files/Images/Sams-3D-Library-2D-Showcase-3.png) |
 |:---:|
-| *Model Inspection Overlay* |
+| *Model Examination Overlay* |
 
 <br>
 
