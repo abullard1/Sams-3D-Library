@@ -41,7 +41,7 @@ Initially, I began with just a regular 2D website, which started out as part of 
 <details>
   <summary><b>Unity WebGL Version</b></summary>
   <br>
-During the making of the 2D website, the idea of also creating an interactive WebGL version of the website in Unity randomly popped into my head. I have always been interested in game development, which is why I picked up 3D modeling in the first place some time ago. I felt like adding a Unity WebGL version of the 3D library was simply the natural next step. The 3D Version also has limited mobile support. It will automatically detect if you are on a mobile device and activate a mobile UI letting you play using an onscreen joystick and buttons. <b>The 3D Version Unity Project project can be downloaded <a href="https://drive.google.com/file/d/1dwVfUvqlepKW6kQrtcf_SswvabM8mlvg/view?usp=sharing">here</a>.</b>
+During the making of the 2D website, I got the idea of also creating an interactive WebGL version of the website in Unity. I have always been interested in game development, which is why I picked up 3D modeling in the first place some years ago. I felt like adding a Unity WebGL version of the 3D library was simply the natural next step. The 3D Version also has mobile support. It will automatically detect if you are on a mobile device and enable a mobile UI letting you play using an onscreen joystick and buttons. <b>The 3D Version Unity Project project can be downloaded <a href="https://drive.google.com/file/d/1dwVfUvqlepKW6kQrtcf_SswvabM8mlvg/view?usp=sharing">here</a>.</b>
   <br>
   <br>
 </details>
@@ -165,8 +165,9 @@ Currently, six 3D models are displayed on the website, all of which can be downl
 <br>
 
 ### 3D Version
-* 3D Version crashes when changing Texture Resolution Slider back and forth
-* Window Resolution Setting sometimes causes issues (More or less added for completeness anyways)
+* 3D Version crashes when changing Texture Resolution Slider back and forth.
+* Window Resolution Setting sometimes causes issues. (More or less added for completeness only anyways)
 * Cursor control will sometimes get handed over back to browser when exiting examination of object. Clicking once will bring control back to the game though.
-* On some Mobile Devices and older browsers an error will be shown when trying to play the 3D Version
-* On some Mobile Devices a black screen will be shown, or rather, the scene will have no lighting
+* On some Mobile Devices and older browsers an error will be shown when trying to play the 3D Version.
+* On some Mobile Devices a black screen will be shown, or rather, the scene will have no lighting.
+* On mobile: Looking around while first using the joystick not possible. Looking around and then using the joystick works. (Multitouch issue)
