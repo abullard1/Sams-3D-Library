@@ -30,6 +30,8 @@ A personal website, made using pure HTML, CSS and Javascript and Unity WebGL to 
   </a>
 </div>
 
+<br>
+
 # Information
 
 <details>
@@ -66,111 +68,49 @@ Currently, six 3D models are displayed on the website, all of which can be downl
 
 > ## **Note: Unity WebGL is not officially supported on mobile devices! The experience may vary across devices.**
 
+<br>
+
 # Showcase
+
 ## 2D Version
-<table>
-  <tr>
-    <td>
-      <kbd> 
-        <img src="Showcase-Files/Images/Sams-3D-Library-2D-Showcase-1.png" width="1000" alt="2D/3D Selection Page" title="2D/3D Selection Page"/> 
-      </kbd>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <kbd> 
-      <img src="Showcase-Files/Images/Sams-3D-Library-2D-Showcase-2.png" width="1000" alt="Main Page" title="Main Page"/> 
-      </kbd>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <kbd>
-      <img src="Showcase-Files/Images/Sams-3D-Library-2D-Showcase-3.png" width="1000" alt="Model Inspection Overlay" title="Model Inspection Overlay"/> 
-      </kbd>
-    </td>
-  </tr>
-</table>
+
+| ![2D/3D Selection Page](Showcase-Files/Images/Sams-3D-Library-2D-Showcase-1.png) | ![Main Page](Showcase-Files/Images/Sams-3D-Library-2D-Showcase-2.png) |
+|:---:|:---:|
+| *2D/3D Selection Page* | *Main Page* |
+
+| ![Model Inspection Overlay](Showcase-Files/Images/Sams-3D-Library-2D-Showcase-3.png) |
+|:---:|
+| *Model Inspection Overlay* |
 
 <br>
 
 ## 3D Version
-<table>
-  <tr>
-    <td>
-      <kbd> 
-      <img src="Showcase-Files/Images/Sams-3D-Library-3D-Showcase-1.png" width="1000" alt="Introduction Screen" title="Introduction Screen"/> 
-      </kbd>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <kbd> 
-      <img src="Showcase-Files/Images/Sams-3D-Library-3D-Showcase-2.png" width="1000" alt="3D Model Hallway" title="3D Model Hallway"/>
-      </kbd>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <kbd>
-      <img src="Showcase-Files/Images/Sams-3D-Library-3D-Showcase-3.png" width="1000" alt="Looking at 3D Model" title="Looking at 3D Model"/>
-      </kbd>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <kbd>
-      <img src="Showcase-Files/Images/Sams-3D-Library-3D-Showcase-4.png" width="1000" alt="Examining 3D Model" title="Examining 3D Model"/>
-      </kbd>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <kbd>
-      <img src="Showcase-Files/Images/Sams-3D-Library-3D-Showcase-5.png" width="1000" alt="Pause Menu" title="Pause Menu"/>
-      </kbd>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <kbd>
-      <img src="Showcase-Files/Images/Sams-3D-Library-3D-Showcase-6.png" width="1000" alt="Mobile Platform UI" title="Mobile Platform UI"/>
-      </kbd>
-    </td>
-  </tr>
-</table>
+
+| ![Introduction Screen](Showcase-Files/Images/Sams-3D-Library-3D-Showcase-1.png) | ![3D Model Hallway](Showcase-Files/Images/Sams-3D-Library-3D-Showcase-2.png) |
+|:---:|:---:|
+| *Introduction Screen* | *3D Model Hallway* |
+
+| ![Looking at 3D Model](Showcase-Files/Images/Sams-3D-Library-3D-Showcase-3.png) | ![Examining 3D Model](Showcase-Files/Images/Sams-3D-Library-3D-Showcase-4.png) |
+|:---:|:---:|
+| *Looking at 3D Model* | *Examining 3D Model* |
+
+| ![Pause Menu](Showcase-Files/Images/Sams-3D-Library-3D-Showcase-5.png) | ![Mobile Platform UI](Showcase-Files/Images/Sams-3D-Library-3D-Showcase-6.png) |
+|:---:|:---:|
+| *Pause Menu* | *Mobile Platform UI* |
 
 <br>
 
 ## Upcoming Models
-<table>
-  <tr>
-    <td>
-      <kbd> 
-        <img src="Showcase-Files/Images/Sams-3D-Library-Upcoming-Model-1.png" width="800" alt="Name: Großer Kopf, Artist: Trude Esser, Location: Düsseldorf, Germany" title="Name: Großer Kopf, Artist: Trude Esser, Location: Düsseldorf, Germany"/> 
-      </kbd>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <kbd> 
-        <img src="Showcase-Files/Images/Sams-3D-Library-Upcoming-Model-2.png" width="800" alt="Military Fast Attack Spaceship" title="Military Fast Attack Spaceship"/> 
-      </kbd>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <kbd> 
-        <img src="Showcase-Files/Images/Sams-3D-Library-Upcoming-Model-3.png" width="800" alt="Worn/Dirty Laboratory Table with sink and a variety of different utensils" title="Worn/Dirty Laboratory Table with sink and a variety of different utensils"/> 
-      </kbd>
-    </td>
-  </tr>
-</table>
+
+| ![Großer Kopf](Showcase-Files/Images/Sams-3D-Library-Upcoming-Model-1.png) | ![Military Fast Attack Spaceship](Showcase-Files/Images/Sams-3D-Library-Upcoming-Model-2.png) | ![Worn/Dirty Laboratory Table](Showcase-Files/Images/Sams-3D-Library-Upcoming-Model-3.png) |
+|:---:|:---:|:---:|
+| *Großer Kopf -Trude Esser* | *Military Fast Attack Spaceship* | *Worn & Dirty Laboratory Table* |
 
 <br>
 
 ## Known Issues
 ### 2D
+* Scrollbar disappearing and not reappearing in overlay
 
 <br>
 
