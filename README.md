@@ -123,3 +123,4 @@ Currently, six 3D models are displayed on the website, all of which can be downl
 * On some Mobile Devices and older browsers an error will be shown when trying to play the 3D Version.
 * On some Mobile Devices a black screen will be shown, or rather, the scene will have no lighting.
 * On mobile: Looking around while first using the joystick not possible. Looking around and then using the joystick works. (Multitouch issue)
+* Sound Reverb not working in WebGL (Not supported).
