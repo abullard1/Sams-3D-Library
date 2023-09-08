@@ -3,7 +3,7 @@ A personal website, made using pure HTML, CSS and Javascript and Unity WebGL to 
 
 <div align="center">
 
-![version](https://img.shields.io/badge/version-1.0.0-blue)
+![version](https://img.shields.io/badge/version-1.1.0-blue)
 ![Last Commit](https://img.shields.io/github/last-commit/abullard1/Sams-3D-Library?color=blue)
 ![Website Status](https://img.shields.io/website?url=https://sams3dlibrary.com/)
 ![Website Uptime in Percent](https://img.shields.io/uptimerobot/ratio/m795243022-d466d050de7758578b1eccd1?label=Website%20Uptime)
@@ -53,7 +53,7 @@ Initially, I began with just a regular 2D website, which started out as part of 
 <details>
   <summary><b>Unity WebGL Version</b></summary>
   <br>
-During the making of the 2D website, I had the idea of also creating an interactive WebGL version of the website in Unity. I have always been interested in game development, which is why I initially picked up 3D modeling in the first place some three to four years ago. I felt like adding a Unity WebGL version of the 3D library was simply the natural next step. The 3D Version also has mobile support. It will automatically detect if you are on a mobile device and enable a mobile UI letting you play using an onscreen joystick and buttons. <b>The 3D Version Unity Project project can be downloaded <a href="https://drive.google.com/file/d/1dwVfUvqlepKW6kQrtcf_SswvabM8mlvg/view?usp=sharing">here</a>.</b>
+During the making of the 2D website, I had the idea of also creating an interactive WebGL version of the website in Unity. I have always been interested in game development, which is why I initially picked up 3D modeling in the first place some three to four years ago. I felt like adding a Unity WebGL version of the 3D library was simply the natural next step. The 3D Version also has mobile support. It will automatically detect if you are on a mobile device and enable a mobile UI letting you play using an onscreen joystick and buttons. <b>The 3D Version Unity Project project can be downloaded <a href="https://drive.google.com/drive/folders/1pqvvsyH0CmhSqIl-_pZWWjc_zVuJZe-D?usp=sharing">here</a>.</b>
   <br>
   <br>
 </details>
