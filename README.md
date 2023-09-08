@@ -4,9 +4,9 @@ A personal website, made using pure HTML, CSS and Javascript and Unity WebGL to 
 <div align="center">
 
 ![version](https://img.shields.io/badge/version-1.0.0-blue)
+![Last Commit](https://img.shields.io/github/last-commit/abullard1/Sams-3D-Library?color=blue)
 ![Website Status](https://img.shields.io/website?url=https://sams3dlibrary.com/)
 ![Website Uptime in Percent](https://img.shields.io/uptimerobot/ratio/m795243022-d466d050de7758578b1eccd1?label=Website%20Uptime)
-![Last Commit](https://img.shields.io/github/last-commit/abullard1/Sams-3D-Library)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 </div>
