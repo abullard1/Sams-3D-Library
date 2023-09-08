@@ -11,10 +11,20 @@ A personal website, made using pure HTML, CSS and Javascript and Unity WebGL to 
 </div>
 
 ## Table of Contents
-1. [Website](#Website)
-2. [Information](#Information)
-3. [Showcase](#Showcase)
-5. [Known Issues](#Known-Issues)
+- [Website](#Website)
+- [Information](#Information)
+    - [Context](#Context)
+    - [Why HTML, CSS & JavaScript](#Why-HTML,-CSS-&-JavaScript)
+    - [Unity WebGL Version](#Unity-WebGL-Version)
+    - [Current State](#Current-State)
+- [Showcase](#Showcase)
+    - [2D Version](#2D-Version)
+    - [3D Version](#3D-Version)
+    - [Upcoming Models](#Upcoming-Models)
+- [Known Issues](#Known-Issues)
+    - [2D](#2D)
+    - [3D](#3D)
+
 
 # Website
 <div align="center">
@@ -163,11 +173,11 @@ Currently, six 3D models are displayed on the website, all of which can be downl
 <br>
 
 ## Known Issues
-### 2D Version
+### 2D
 
 <br>
 
-### 3D Version
+### 3D
 * 3D Version crashes when changing Texture Resolution Slider back and forth.
 * Window Resolution Setting sometimes causes issues. (More or less added for completeness only anyways)
 * Cursor control will sometimes get handed over back to browser when exiting examination of object. Clicking once will bring control back to the game though.
