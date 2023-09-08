@@ -7,7 +7,7 @@ A personal website, made using pure HTML, CSS and Javascript and Unity WebGL to 
 ![Last Commit](https://img.shields.io/github/last-commit/abullard1/Sams-3D-Library?color=blue)
 ![Website Status](https://img.shields.io/website?url=https://sams3dlibrary.com/)
 ![Website Uptime in Percent](https://img.shields.io/uptimerobot/ratio/m795243022-d466d050de7758578b1eccd1?label=Website%20Uptime)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
 
 </div>
 
