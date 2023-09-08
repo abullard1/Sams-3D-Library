@@ -131,3 +131,6 @@ Currently, six 3D models are displayed on the website, all of which can be downl
 Credit goes out to:
 1. @marcusx2 for his free [FullscreenWebGL Asset](https://assetstore.unity.com/packages/tools/camera/fullscreenwebgl-180047).
 2. @SpeedTutor for his [ExamineSystemV1](https://assetstore.unity.com/packages/templates/systems/examine-system-v1-169389) which formed the basis of the project.
+3. @QuantumTekSupport for their free QuantumUI asset.
+4. @jhmaverick for his free Virtual Buttons Asset.
+5. 
