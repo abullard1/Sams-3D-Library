@@ -133,4 +133,3 @@ Credit goes out to:
 2. @SpeedTutor for his [ExamineSystemV1](https://assetstore.unity.com/packages/templates/systems/examine-system-v1-169389) which formed the basis of the project.
 3. @QuantumTekSupport for their free QuantumUI asset.
 4. @jhmaverick for his free Virtual Buttons Asset.
-5. 
