@@ -129,7 +129,8 @@ Currently, six 3D models are displayed on the website, all of which can be downl
 
 ## Credits
 Credit goes out to:
-1. @marcusx2 for his free [FullscreenWebGL Asset](https://assetstore.unity.com/packages/tools/camera/fullscreenwebgl-180047).
-2. @SpeedTutor for his [ExamineSystemV1](https://assetstore.unity.com/packages/templates/systems/examine-system-v1-169389) which formed the basis of the project.
-3. @QuantumTekSupport for their free QuantumUI asset.
-4. @jhmaverick for his free Virtual Buttons Asset.
+1. @marcusx2 for his free [FullscreenWebGL](https://assetstore.unity.com/packages/tools/camera/fullscreenwebgl-180047) Unity asset.
+2. @SpeedTutor for his [ExamineSystemV1](https://assetstore.unity.com/packages/templates/systems/examine-system-v1-169389) Unity asset, which, while heavily modified, formed the basis of the project.
+3. @QuantumTekSupport for their free [QuantumUI](https://assetstore.unity.com/packages/tools/gui/quantum-ui-162077) Unity asset.
+4. @jhmaverick for his free [Virtual Buttons](https://assetstore.unity.com/packages/tools/input-management/virtual-buttons-200159) Unity asset.
+5. @dentedpixel for his free [LeanTween](https://assetstore.unity.com/packages/tools/animation/leantween-3595) Unity asset.
