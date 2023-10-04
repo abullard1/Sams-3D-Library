@@ -43,7 +43,7 @@ This project started in summer 2022 after I had finished two projects for univer
 </details>
 
 <details>
-  <summary><b>Why HTML, CSS & JavaScript</b></summary>
+  <summary><b>Why Vanilla HTML, CSS & JavaScript</b></summary>
   <br/>
 Initially, I began with just a regular 2D website, which started out as part of some coursework on HTML and CSS. I thought about reworking the website, making heavier use of frameworks such as Bootstrap or others, but deliberately opted not to, in order to get a clearer grasp of HTML, CSS, and JavaScript, which would benefit me more in the longterm. <i>I believe it is important to get hands-on experience with any new language first, before efficient use of the frameworks and technologies that build on them can be made.</i>
   <br/>
