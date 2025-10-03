@@ -25,7 +25,7 @@ A personal website, made using pure HTML, CSS and Javascript and Unity WebGL to 
 
 # Website
 <div align="center">
-  <a href="https://sams3dlibrary.live/">
+  <a href="https://sams3dlibrary.space/">
     <img src="Showcase-Files/Images/Sams-3D-Library-Intro-Logo.png" alt="Sam's 3D Library" title="Click to enter Sam's 3D Library!">
   </a>
 </div>
@@ -61,7 +61,7 @@ During the making of the 2D website, I had the idea of also creating an interact
 <details>
   <summary><b>Current State</b></summary>
   <br/>
-Currently, six 3D models are displayed on the website, all of which can be downloaded/purchased on CGTrader and TurboSquid (or ripped from the files of this repository if you're smart). More 3D models will be uploaded further down the line, some of which can be seen under <a href="#Upcoming-Models">Upcoming Models</a>. I highly appreciate any visits to the <a href="https://sams3dlibrary.live/">Website</a>.
+Currently, six 3D models are displayed on the website, all of which can be downloaded/purchased on CGTrader and TurboSquid (or ripped from the files of this repository if you're smart). More 3D models will be uploaded further down the line, some of which can be seen under <a href="#Upcoming-Models">Upcoming Models</a>. I highly appreciate any visits to the <a href="https://sams3dlibrary.space/">Website</a>.
   <br/>
   <br/>
 </details>
